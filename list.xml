@@ -110,8 +110,7 @@
 
 
 
-
-<item><title>MBC live</title><link>rtmp://fms.mbcgn.kr:1935/livepkgr_j_tv playpath=livestream2 swfUrl=http://www.mbcgn.kr/onair/swfs/StrobeMediaPlayback.swf live=1 pageUrl=http://www.mbcgn.kr/onair/player.php?id=TVJJ</link></item>
+<item><title>MBC liveasd</title><link>http://40.113.21.146:8000/Daziptv/Streamall/152.ch</link></item>
 
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Deportes[/COLOR] [COLOR skyblue][Sports] [/COLOR]</title>
